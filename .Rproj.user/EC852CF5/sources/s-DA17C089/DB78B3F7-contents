@@ -1,0 +1,6 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,Following a successful career in Investment Banking working on high-profile derivative transactions for a wide range of clients, I decided to make the switch to Software & ML/Data Engineering. Having studied Engineering Science at Oxford as an undergraduate, I realised that my true passions lie in solving complex problems and building innovative solutions using mathematical techniques. Given my longstanding interest in all things Tech, working at the intersection of mathematics, statistics and computing is the ideal career for me. I am now looking to build on my academic studies and gain industry experience in an internship role with the opportunity to further develop my skills in data science, machine learning and software engineering and, hopefully, help to solve complex business problems.
+data_science_writing_aside,I regularly blog about data science and visualization on my blog [joshcheema.io](https://joshcheema.io/)
+certification_aside,Level III CFA exam candidate
+certification_aside,Studying for AWS Cloud Practitioner and Solutions Architect (Associate) Certifications

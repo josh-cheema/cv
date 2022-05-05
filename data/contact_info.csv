@@ -1,0 +1,7 @@
+Id of contact section,Icon used from font-awesome 4 to label this contact section,The actual value written for the contact entry
+loc,icon,contact
+email,envelope,joshcheema@gmail.com
+website,link,"[joshcheema.io](https://joshcheema.io)"
+github,github,"[josh-cheema](https://github.com/josh-cheema)"
+linkedin,linkedin,"[josh-cheema](https://linkedin.com/in/josh-cheema)"
+kaggle,kaggle,"[joshcheema](https://www.kaggle.com/joshcheema)"

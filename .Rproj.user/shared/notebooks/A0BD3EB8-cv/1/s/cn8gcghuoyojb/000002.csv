@@ -1,0 +1,58 @@
+"0","knitr::opts_chunk$set("
+"0","  results='asis', "
+"0","  echo = FALSE"
+"0",")"
+"0",""
+"0","library(magrittr) # For the pipe"
+"0","source(""cv_printing_functions.r"")"
+"0",""
+"0","# Read in all data and initialize a CV printer object"
+"0","CV <- create_CV_object("
+"0","  data_location = ""~/Documents/BLOG/CV/data/"",  "
+"0","  pdf_mode = params$pdf_mode"
+"0",")"
+"1","[1mRows: [22m[34m14[39m [1mColumns: [22m[34m10[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (8): section, title, loc, institution, start, end, description_1, description_2
+[33mlgl[39m (2): description_3, in_resume
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"1","[1mRows: [22m[34m6[39m [1mColumns: [22m[34m2[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (1): skill
+[32mdbl[39m (1): level
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"2","Warning:"
+"2"," One or more parsing issues, see `problems()` for details
+"
+"1","[1mRows: [22m[34m4[39m [1mColumns: [22m[34m2[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (2): loc, text
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"1","[1mRows: [22m[34m5[39m [1mColumns: [22m[34m3[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (3): loc, icon, contact
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
